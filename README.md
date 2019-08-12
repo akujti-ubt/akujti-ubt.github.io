@@ -1,2 +1,1 @@
-<h1>Art</h1>
-<p>art</p>
+<meta http-equiv="Refresh" content="0; url=http://134.209.253.126/" />
